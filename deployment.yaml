@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: p3-app-container
-          image: https://hub.docker.com/r/wil42/playground:v1 
+          image: wil42/playground:v1 
           ports:
             - containerPort: 8080
           env:
