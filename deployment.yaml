@@ -16,7 +16,7 @@ spec:
         - name: p3-app-container
           image: wil42/playground:v1 
           ports:
-            - containerPort: 8080
+            - containerPort: 8888
           env:
             - name: MESSAGE
               value: "P3 APP UPDATED. youbihi ara badge.."
