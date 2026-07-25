@@ -19,5 +19,5 @@ spec:
             - containerPort: 8080
           env:
             - name: MESSAGE
-              value: "P3 APP."
+              value: "P3 APP UPDATED. youbihi ara badge.."
 
